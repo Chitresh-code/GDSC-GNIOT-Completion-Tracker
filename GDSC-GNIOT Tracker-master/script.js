@@ -30,7 +30,7 @@ function compare(a, b) {
   return 0;
 }
 
-const updateData = async (filter) => {
+const updateData = async (filter, flag) => {
   let data = await (await fetch("./data.json")).json();
   if (filter !== "") {
     data = data.filter((el) => {
@@ -80,13 +80,15 @@ const updateData = async (filter) => {
     </tr>`;
   });
   console.log("Total Completions of both Pathways:", totalCompletionsYesCount);
-  changeWidth();
+  if (flag) {
+    changeWidth();
+  };
   document.getElementById("gccp_body").innerHTML = html;
 };
 
-updateData("");
+updateData("", true);
 const input = document.getElementById("input");
 input.addEventListener("input", () => {
   console.log(input.value);
-  updateData(input.value);
+  updateData(input.value, false);
 });
