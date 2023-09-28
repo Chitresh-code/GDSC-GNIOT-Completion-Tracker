@@ -1,6 +1,7 @@
 [
     {
         "Student Name": "Harsh Dambhare",
+        "Student Email": "harshdambhareh53@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Wed Aug 30 2023 17:28:35 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -13,6 +14,7 @@
     },
     {
         "Student Name": "Ayush Sharma",
+        "Student Email": "sharmaayush20004sa@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Wed Aug 30 2023 17:31:32 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -25,6 +27,7 @@
     },
     {
         "Student Name": "Himanshi Negi",
+        "Student Email": "negicloud2024@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Wed Aug 30 2023 17:36:19 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -37,10 +40,24 @@
     },
     {
         "Student Name": "Neetu Yadav",
+        "Student Email": "ny0055139@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Wed Aug 30 2023 17:43:18 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/6a2a515b-94f6-4351-b886-f868ea281792",
+        "# of Courses Completed": "2",
+        "# of Skill Badges Completed": "0",
+        "# of GenAI Game Completed": "1",
+        "Total Completions of both Pathways": "No",
+        "Redemption Status": "Yes"
+    },
+    {
+        "Student Name": "OWAIS SALAUDDIN KHAN",
+        "Student Email": "owaissalauddinkhan@gmail.com",
+        "Institution": "Greater Noida Institute of Technology - Greater Noida",
+        "Enrolment Date & Time": "Wed Aug 30 2023 17:50:01 GMT+0530 (India Standard Time)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/75489600-b2b8-4642-ac56-a0a16bb70c6e",
         "# of Courses Completed": "2",
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
@@ -48,19 +65,8 @@
         "Redemption Status": "Yes"
     },
     {
-        "Student Name": "OWAIS SALAUDDIN KHAN",
-        "Institution": "Greater Noida Institute of Technology - Greater Noida",
-        "Enrolment Date & Time": "Wed Aug 30 2023 17:50:01 GMT+0530 (India Standard Time)",
-        "Enrolment Status": "All Good",
-        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/75489600-b2b8-4642-ac56-a0a16bb70c6e",
-        "# of Courses Completed": "0",
-        "# of Skill Badges Completed": "0",
-        "# of GenAI Game Completed": "0",
-        "Total Completions of both Pathways": "No",
-        "Redemption Status": "Yes"
-    },
-    {
         "Student Name": "Chitresh Gyanani",
+        "Student Email": "gychitresh1290@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Wed Aug 30 2023 17:51:58 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -73,6 +79,7 @@
     },
     {
         "Student Name": "Vihaan Arora",
+        "Student Email": "krbvm2002@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Wed Aug 30 2023 18:16:47 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -85,6 +92,7 @@
     },
     {
         "Student Name": "JALAJ MISHRA",
+        "Student Email": "mjalaj77@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Wed Aug 30 2023 19:58:37 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -97,6 +105,7 @@
     },
     {
         "Student Name": "Raghav Tiwari",
+        "Student Email": "vitthal312002@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Wed Aug 30 2023 20:05:40 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -109,6 +118,7 @@
     },
     {
         "Student Name": "Nikhil Raj",
+        "Student Email": "nikhilraj11199@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Wed Aug 30 2023 20:07:13 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -121,6 +131,7 @@
     },
     {
         "Student Name": "Harsh Mishra",
+        "Student Email": "vishalmishra.05577@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Wed Aug 30 2023 20:09:03 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -133,6 +144,7 @@
     },
     {
         "Student Name": "Aditya Kumar Singh",
+        "Student Email": "adityasingh.gniot@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Wed Aug 30 2023 20:09:39 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -145,6 +157,7 @@
     },
     {
         "Student Name": "Shaiqua Taj",
+        "Student Email": "shaiquataj098@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Wed Aug 30 2023 20:31:28 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -157,6 +170,7 @@
     },
     {
         "Student Name": "Prerna Singh",
+        "Student Email": "prernasingh02002@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Wed Aug 30 2023 20:31:29 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -169,6 +183,7 @@
     },
     {
         "Student Name": "Himesh Mishra",
+        "Student Email": "himeshmishra74@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Wed Aug 30 2023 20:51:58 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -181,6 +196,7 @@
     },
     {
         "Student Name": "Abhay Shukla",
+        "Student Email": "shivabhay55@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Wed Aug 30 2023 20:58:02 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -193,6 +209,7 @@
     },
     {
         "Student Name": "Jitendra Singh",
+        "Student Email": "jitendrasingh25889@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Wed Aug 30 2023 22:21:49 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -205,6 +222,7 @@
     },
     {
         "Student Name": "Palak Gupta",
+        "Student Email": "palak.g882@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Wed Aug 30 2023 22:45:41 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -217,6 +235,7 @@
     },
     {
         "Student Name": "Dia Negi",
+        "Student Email": "negidia918@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 11:17:27 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -229,6 +248,7 @@
     },
     {
         "Student Name": "Dharampal Yadav",
+        "Student Email": "ydharampal192@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 11:22:13 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -241,6 +261,7 @@
     },
     {
         "Student Name": "Sneha Baidnath Pandit",
+        "Student Email": "snehapandit526@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 11:24:51 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -253,6 +274,7 @@
     },
     {
         "Student Name": "Amrit Pal Singh",
+        "Student Email": "amritpalsingh22177@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 11:27:10 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -265,6 +287,7 @@
     },
     {
         "Student Name": "Abhishek Rathore",
+        "Student Email": "abhishek.rathore2086@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 11:28:58 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -277,6 +300,7 @@
     },
     {
         "Student Name": "Yash Kumar Mahto",
+        "Student Email": "yk282128@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 11:30:45 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -289,6 +313,7 @@
     },
     {
         "Student Name": "Vivek Kumar Vimal",
+        "Student Email": "vivekkumar725075@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 11:32:15 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -301,6 +326,7 @@
     },
     {
         "Student Name": "Vivek Jaiswal",
+        "Student Email": "vj726898@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 11:33:51 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -313,6 +339,7 @@
     },
     {
         "Student Name": "Vishesh Pathak",
+        "Student Email": "visheshpathak44@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 11:35:46 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -325,6 +352,7 @@
     },
     {
         "Student Name": "Vishal Singh",
+        "Student Email": "tvishalsingh841@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 11:39:05 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -337,6 +365,7 @@
     },
     {
         "Student Name": "Varun Gupta",
+        "Student Email": "verungupta53@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 11:41:23 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -349,6 +378,7 @@
     },
     {
         "Student Name": "Ujjwal",
+        "Student Email": "ujjwalsingh2668@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 11:48:26 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -361,6 +391,7 @@
     },
     {
         "Student Name": "Sumit Kumar",
+        "Student Email": "sumitchoudhary2812@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 11:51:12 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -373,6 +404,7 @@
     },
     {
         "Student Name": "Sumit Gomes",
+        "Student Email": "sumitgomes4@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 11:55:37 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -385,6 +417,7 @@
     },
     {
         "Student Name": "Sumit Dixit",
+        "Student Email": "dixit482005@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 11:58:50 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -397,6 +430,7 @@
     },
     {
         "Student Name": "Suhaib Ahmad",
+        "Student Email": "mn202425@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 12:00:30 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -409,6 +443,7 @@
     },
     {
         "Student Name": "Sonika",
+        "Student Email": "srajput760001@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 12:04:47 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -421,6 +456,7 @@
     },
     {
         "Student Name": "Simran Raj",
+        "Student Email": "simranraj2671@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 12:06:34 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -433,6 +469,7 @@
     },
     {
         "Student Name": "Shwetangi Tiwari",
+        "Student Email": "st921021@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 12:08:11 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -445,6 +482,7 @@
     },
     {
         "Student Name": "Shally Jha",
+        "Student Email": "shallyjha855@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 12:09:59 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -457,6 +495,7 @@
     },
     {
         "Student Name": "Sawant Dubey",
+        "Student Email": "saw9794ant@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 12:12:28 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -469,6 +508,7 @@
     },
     {
         "Student Name": "Satyam Sundram",
+        "Student Email": "satyam3261@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 12:25:25 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -481,6 +521,7 @@
     },
     {
         "Student Name": "Sanskriti Gupta",
+        "Student Email": "gsanskriti36@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 12:28:18 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -493,6 +534,7 @@
     },
     {
         "Student Name": "Sanjeevani Rawat",
+        "Student Email": "sanjeevanirawat19@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 12:30:05 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -505,6 +547,7 @@
     },
     {
         "Student Name": "Sanjana Srivastava",
+        "Student Email": "sanjanasri019@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 12:31:37 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -517,6 +560,7 @@
     },
     {
         "Student Name": "Sangam Kumar Gupta",
+        "Student Email": "sangamkg11@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 12:33:17 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -529,6 +573,7 @@
     },
     {
         "Student Name": "Sakshi Ratnam",
+        "Student Email": "ratnamsakshi7@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 12:34:41 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -541,6 +586,7 @@
     },
     {
         "Student Name": "Sajid Ali",
+        "Student Email": "sajidali2103033@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 12:36:08 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -553,6 +599,7 @@
     },
     {
         "Student Name": "Sabeha Najib",
+        "Student Email": "sabehanajib@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 13:13:22 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -565,6 +612,7 @@
     },
     {
         "Student Name": "Rishant Bana",
+        "Student Email": "vrbros2@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 13:16:27 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -577,6 +625,7 @@
     },
     {
         "Student Name": "Rashid Ali",
+        "Student Email": "rashidhasrat2002@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 13:18:04 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -589,6 +638,7 @@
     },
     {
         "Student Name": "Ranu Parul",
+        "Student Email": "ranu2200971@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 13:20:17 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -601,6 +651,7 @@
     },
     {
         "Student Name": "Priyanshi Gupta",
+        "Student Email": "priyanshigupta7803@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 13:21:56 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -613,6 +664,7 @@
     },
     {
         "Student Name": "Prateek Rana",
+        "Student Email": "prateekrana462@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 13:32:20 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -625,6 +677,7 @@
     },
     {
         "Student Name": "Prashant Singh",
+        "Student Email": "cloudprashant49@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 14:02:23 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -637,6 +690,7 @@
     },
     {
         "Student Name": "Pradumn Gupta",
+        "Student Email": "pradumnbtt@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 14:04:57 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -649,6 +703,7 @@
     },
     {
         "Student Name": "Nisha Bisht",
+        "Student Email": "nishabisht5123@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 14:06:29 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -661,6 +716,7 @@
     },
     {
         "Student Name": "Nikita Goswami",
+        "Student Email": "nikitagoswami771@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 14:08:16 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -673,6 +729,7 @@
     },
     {
         "Student Name": "Nikesh Chaudhary",
+        "Student Email": "nikeshchaudhary52494@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 14:09:44 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -685,6 +742,7 @@
     },
     {
         "Student Name": "Neha Singh",
+        "Student Email": "neha9102singh@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 14:11:29 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -697,6 +755,7 @@
     },
     {
         "Student Name": "Neha Kumari",
+        "Student Email": "nehakumari21nov@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 14:12:54 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -709,6 +768,7 @@
     },
     {
         "Student Name": "Naman Garg",
+        "Student Email": "naman8bnps@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 14:14:07 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -721,6 +781,7 @@
     },
     {
         "Student Name": "Saqib Khan",
+        "Student Email": "mohdsaqib.khan715@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 14:17:08 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -733,6 +794,7 @@
     },
     {
         "Student Name": "Mohd Areeb",
+        "Student Email": "mohdareeb18052004@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 14:20:48 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -745,18 +807,20 @@
     },
     {
         "Student Name": "Mayank Raj",
+        "Student Email": "vedikajuyal@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 14:25:01 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/12dd83f9-1181-4c7d-b60a-fa67e3761f80",
         "# of Courses Completed": "4",
-        "# of Skill Badges Completed": "1",
+        "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
-        "Total Completions of both Pathways": "No",
+        "Total Completions of both Pathways": "Yes",
         "Redemption Status": "Yes"
     },
     {
         "Student Name": "Anup Kumar",
+        "Student Email": "anupm0873@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 14:27:22 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -769,6 +833,7 @@
     },
     {
         "Student Name": "Pranshu Yadav",
+        "Student Email": "yadavpranshu4141@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 14:29:09 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -781,11 +846,12 @@
     },
     {
         "Student Name": "Abhay Gyan",
+        "Student Email": "abhaysanu27@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 14:30:22 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/1ed6a166-3b64-491e-b05c-d8d9eed66ae6",
-        "# of Courses Completed": "1",
+        "# of Courses Completed": "3",
         "# of Skill Badges Completed": "1",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
@@ -793,6 +859,7 @@
     },
     {
         "Student Name": "Abhishek Chaudhary",
+        "Student Email": "abhichaudhary1771@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 14:32:32 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -805,6 +872,7 @@
     },
     {
         "Student Name": "Adarsh Gautam",
+        "Student Email": "dipakpr1935@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 14:34:03 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -817,6 +885,7 @@
     },
     {
         "Student Name": "Adarsh Kumar Singh",
+        "Student Email": "adarshpaho21@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:03:17 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -829,6 +898,7 @@
     },
     {
         "Student Name": "Adarsh Tiwari",
+        "Student Email": "adarshtiwaricloud@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:06:37 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -841,6 +911,7 @@
     },
     {
         "Student Name": "Aman Bisht",
+        "Student Email": "amanbisht1114@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:13:12 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -853,6 +924,7 @@
     },
     {
         "Student Name": "Aman Kumar",
+        "Student Email": "Kaman809258@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:22:16 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -865,6 +937,7 @@
     },
     {
         "Student Name": "Aman Srivastava",
+        "Student Email": "amansrivastava8778@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:26:24 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -877,6 +950,7 @@
     },
     {
         "Student Name": "Kunal Thakur",
+        "Student Email": "kunarutakuru@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:27:41 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -889,6 +963,7 @@
     },
     {
         "Student Name": "Kshitij Katariya",
+        "Student Email": "kshitijkatariya1@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:29:09 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -901,6 +976,7 @@
     },
     {
         "Student Name": "Krishnam Katiyar",
+        "Student Email": "krishnamkatiyar@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:30:22 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -913,6 +989,7 @@
     },
     {
         "Student Name": "Komal Tiwari",
+        "Student Email": "tiwariseema134@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:32:32 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -925,6 +1002,7 @@
     },
     {
         "Student Name": "Anand Asati",
+        "Student Email": "anandasati52@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:32:37 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -937,6 +1015,7 @@
     },
     {
         "Student Name": "Khushbu Chaudhary",
+        "Student Email": "khushbu1958@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:34:32 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -949,11 +1028,12 @@
     },
     {
         "Student Name": "Ananya maurya",
+        "Student Email": "ananyamaurya977@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:36:09 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/fd599aec-4407-4c64-b845-1bc27fe7bce1",
-        "# of Courses Completed": "0",
+        "# of Courses Completed": "1",
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
@@ -961,6 +1041,7 @@
     },
     {
         "Student Name": "Keshav Nandan",
+        "Student Email": "keshavnandan4949@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:36:51 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -973,6 +1054,7 @@
     },
     {
         "Student Name": "Keshav Kumar",
+        "Student Email": "keshavkumar3307@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:38:23 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -985,6 +1067,7 @@
     },
     {
         "Student Name": "Aniket Maurya",
+        "Student Email": "aniketmaurya8318@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:39:01 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -997,6 +1080,7 @@
     },
     {
         "Student Name": "Kashish Pandey",
+        "Student Email": "kashishpndy760@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:39:47 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1009,6 +1093,7 @@
     },
     {
         "Student Name": "Kashfi Arzoo",
+        "Student Email": "arzookashfi@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:41:10 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1021,6 +1106,7 @@
     },
     {
         "Student Name": "Anjila Choudhary",
+        "Student Email": "anjilach2002@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:42:30 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1033,6 +1119,7 @@
     },
     {
         "Student Name": "Jeshika Agrahari",
+        "Student Email": "agrahari.jessi@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:42:44 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1045,6 +1132,7 @@
     },
     {
         "Student Name": "Faraaz Mahmood",
+        "Student Email": "faraazmahmood5226@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:44:25 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1057,6 +1145,7 @@
     },
     {
         "Student Name": "Ankit yadav",
+        "Student Email": "ahirankit021@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:45:29 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1069,6 +1158,7 @@
     },
     {
         "Student Name": "Durgesh Pal",
+        "Student Email": "durgeshp75318@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:45:41 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1081,6 +1171,7 @@
     },
     {
         "Student Name": "Divyanshu Tiwari",
+        "Student Email": "divyanshucloud@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:47:10 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1093,6 +1184,7 @@
     },
     {
         "Student Name": "Dimpi Agarwal",
+        "Student Email": "dimpiagarwalofficial@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:48:45 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1105,6 +1197,7 @@
     },
     {
         "Student Name": "Ankita Singh",
+        "Student Email": "ankitasingh202337@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:48:55 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1117,6 +1210,7 @@
     },
     {
         "Student Name": "Dhruv Dwivedi",
+        "Student Email": "dwivedidhru804@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:50:16 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1129,6 +1223,7 @@
     },
     {
         "Student Name": "Anmol Sagar",
+        "Student Email": "anmolsagar.2002@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:51:13 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1141,6 +1236,7 @@
     },
     {
         "Student Name": "Ashutosh Kumar",
+        "Student Email": "ashutosh94ya@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:51:44 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1153,6 +1249,7 @@
     },
     {
         "Student Name": "Anubhuti Bhardwaj",
+        "Student Email": "anubhutibhardwaj123@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:53:06 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1165,6 +1262,7 @@
     },
     {
         "Student Name": "Ansh Mani Tripathi",
+        "Student Email": "anshmanitripathi171203@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:53:24 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1177,6 +1275,7 @@
     },
     {
         "Student Name": "Ansh Sharma",
+        "Student Email": "ansh11639@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 15:55:07 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1189,6 +1288,7 @@
     },
     {
         "Student Name": "Mehak Rathoure",
+        "Student Email": "mehakrathore524@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 17:03:48 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1201,6 +1301,7 @@
     },
     {
         "Student Name": "Mushkan Kumari",
+        "Student Email": "mushkankumari765432@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 17:06:47 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1213,6 +1314,7 @@
     },
     {
         "Student Name": "Divesh singh",
+        "Student Email": "diveshsingh169@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 17:10:59 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1225,6 +1327,7 @@
     },
     {
         "Student Name": "Tanishq Kumar Singh",
+        "Student Email": "singh.tanishq2905@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:03:10 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1237,6 +1340,7 @@
     },
     {
         "Student Name": "Anmol Ratan",
+        "Student Email": "aratan456@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:07:08 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1249,6 +1353,7 @@
     },
     {
         "Student Name": "Denish Paul",
+        "Student Email": "dennilspaul@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:08:54 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1261,6 +1366,7 @@
     },
     {
         "Student Name": "Mohak Verma",
+        "Student Email": "vermamohakverma@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:10:26 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1273,6 +1379,7 @@
     },
     {
         "Student Name": "Aman jog",
+        "Student Email": "aman.jog2004@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:12:15 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1285,6 +1392,7 @@
     },
     {
         "Student Name": "Rahul kumar",
+        "Student Email": "rs5377750@GMAIL.COM",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:13:49 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1297,6 +1405,7 @@
     },
     {
         "Student Name": "Gaurav jha",
+        "Student Email": "gauravjhaofficial2003@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:15:09 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1309,6 +1418,7 @@
     },
     {
         "Student Name": "Amit kumar",
+        "Student Email": "sachinnagal3392@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:16:25 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1321,6 +1431,7 @@
     },
     {
         "Student Name": "Faiyaj Ali",
+        "Student Email": "faiyajali444@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:21:21 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1333,6 +1444,7 @@
     },
     {
         "Student Name": "Sachin Kumar",
+        "Student Email": "sachin8242k@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:22:46 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1345,6 +1457,7 @@
     },
     {
         "Student Name": "Navya Mishra",
+        "Student Email": "navya02505@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:23:46 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1357,6 +1470,7 @@
     },
     {
         "Student Name": "Namit Shakya",
+        "Student Email": "shakyanamit1@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:26:54 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1369,6 +1483,7 @@
     },
     {
         "Student Name": "Amisha Kumari",
+        "Student Email": "amishakumari.ak12345@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:28:43 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1381,6 +1496,7 @@
     },
     {
         "Student Name": "Pradeep Chauhan",
+        "Student Email": "pc875612@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:31:52 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1393,6 +1509,7 @@
     },
     {
         "Student Name": "Vivek Kumar Tiwari",
+        "Student Email": "tiwvivek258@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:33:24 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1405,6 +1522,7 @@
     },
     {
         "Student Name": "Yashu Rawat",
+        "Student Email": "imyashu470@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:35:01 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1417,11 +1535,12 @@
     },
     {
         "Student Name": "Manu sharma",
+        "Student Email": "manusharma8164@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:35:47 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d18de9bc-a46d-436b-8571-9f4268ab3199",
-        "# of Courses Completed": "3",
+        "# of Courses Completed": "4",
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
@@ -1429,6 +1548,7 @@
     },
     {
         "Student Name": "Himanshu Kumar",
+        "Student Email": "himanshukumar.sdvs@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:36:56 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1441,6 +1561,7 @@
     },
     {
         "Student Name": "Priti Gupta",
+        "Student Email": "cloudpriti887@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:38:55 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1453,18 +1574,20 @@
     },
     {
         "Student Name": "Vivekanand Kumar",
+        "Student Email": "vivekanandkumar865124@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:41:10 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/57b625f8-f5df-46e1-bd9e-a86843e60d2a",
-        "# of Courses Completed": "3",
-        "# of Skill Badges Completed": "0",
+        "# of Courses Completed": "4",
+        "# of Skill Badges Completed": "1",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
     },
     {
         "Student Name": "SHOBHIT KUMAR SINGH",
+        "Student Email": "shobhitsingh152174@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:42:26 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1477,6 +1600,7 @@
     },
     {
         "Student Name": "Sahil Garg",
+        "Student Email": "sahilsg1408@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:43:40 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1489,6 +1613,7 @@
     },
     {
         "Student Name": "Shrey chauhan",
+        "Student Email": "shreychauhan4048@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:45:29 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1501,6 +1626,7 @@
     },
     {
         "Student Name": "Archita Vishwakarma",
+        "Student Email": "archita.vishwa@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:46:25 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1513,6 +1639,7 @@
     },
     {
         "Student Name": "Shubham Sharma",
+        "Student Email": "shubhamnever5104@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:46:47 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1525,6 +1652,7 @@
     },
     {
         "Student Name": "mohammad shaan",
+        "Student Email": "sm7007336946@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 21:47:47 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1537,6 +1665,7 @@
     },
     {
         "Student Name": "Yash Tiwari",
+        "Student Email": "yash.tiwari4655@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 22:13:03 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1549,6 +1678,7 @@
     },
     {
         "Student Name": "Himanshu Tripathi",
+        "Student Email": "himanshutripathi675@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 22:46:41 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1561,6 +1691,7 @@
     },
     {
         "Student Name": "Krish jain",
+        "Student Email": "jainkunwar1303@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Thu Aug 31 2023 22:56:47 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1573,6 +1704,7 @@
     },
     {
         "Student Name": "Depanshi",
+        "Student Email": "hcloud2023@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Fri Sep 01 2023 02:31:16 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1585,6 +1717,7 @@
     },
     {
         "Student Name": "Himani Singh",
+        "Student Email": "hcloud2024@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Fri Sep 01 2023 02:42:46 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1597,6 +1730,7 @@
     },
     {
         "Student Name": "Muskan sah",
+        "Student Email": "muskansah5422@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Fri Sep 01 2023 06:05:13 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1609,6 +1743,7 @@
     },
     {
         "Student Name": "Mohammed Khalid",
+        "Student Email": "mdk106573@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Fri Sep 01 2023 11:12:51 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1621,6 +1756,7 @@
     },
     {
         "Student Name": "Mohammad Rahman",
+        "Student Email": "mrahman.jpc@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Fri Sep 01 2023 11:17:57 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1633,6 +1769,7 @@
     },
     {
         "Student Name": "Mohd Parvez",
+        "Student Email": "parvezgazi490@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Fri Sep 01 2023 11:19:56 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1645,6 +1782,7 @@
     },
     {
         "Student Name": "Wasim Akhter",
+        "Student Email": "wasim72ak@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Fri Sep 01 2023 14:28:02 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1657,6 +1795,7 @@
     },
     {
         "Student Name": "Aditya Kumar",
+        "Student Email": "797aditya@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Fri Sep 01 2023 14:30:01 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1669,6 +1808,7 @@
     },
     {
         "Student Name": "Yash Sharma",
+        "Student Email": "yashsharmapvt79@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Fri Sep 01 2023 14:42:56 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1681,6 +1821,7 @@
     },
     {
         "Student Name": "Anshuman",
+        "Student Email": "anshuman4387@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Fri Sep 01 2023 14:44:15 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1693,6 +1834,7 @@
     },
     {
         "Student Name": "Abhishek",
+        "Student Email": "abhishek.rajput339028@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Fri Sep 01 2023 15:08:41 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1705,6 +1847,7 @@
     },
     {
         "Student Name": "Abhyuday Singh",
+        "Student Email": "abhyuday1080@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Fri Sep 01 2023 15:11:26 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1717,6 +1860,7 @@
     },
     {
         "Student Name": "Pawan Kumar",
+        "Student Email": "pawankumar65385@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Fri Sep 01 2023 15:59:14 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1729,6 +1873,7 @@
     },
     {
         "Student Name": "Vishu Paropkari",
+        "Student Email": "vishuparopkari@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 00:43:25 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1741,6 +1886,7 @@
     },
     {
         "Student Name": "Shaikh Ahmad",
+        "Student Email": "shkhahmad64@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:27:16 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1753,18 +1899,20 @@
     },
     {
         "Student Name": "Vinayak Vishwakarma",
+        "Student Email": "vinayak03.2003@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:28:32 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a4b4d40a-366e-4b56-ba9e-6a9b2e65035e",
         "# of Courses Completed": "4",
-        "# of Skill Badges Completed": "0",
+        "# of Skill Badges Completed": "2",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
     },
     {
         "Student Name": "Haripriya Srivastava",
+        "Student Email": "haripriyasrivastava469@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:30:02 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1777,6 +1925,7 @@
     },
     {
         "Student Name": "Ashish Kumar Singh",
+        "Student Email": "ashishkr.singh1402@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:31:20 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1789,6 +1938,7 @@
     },
     {
         "Student Name": "Rohit",
+        "Student Email": "rk53493916792@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:32:22 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1801,6 +1951,7 @@
     },
     {
         "Student Name": "Utkarsh Mani",
+        "Student Email": "utkarshmani547@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:35:00 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1813,6 +1964,7 @@
     },
     {
         "Student Name": "Satyam Ram Tripathi",
+        "Student Email": "tripathisatyam3008@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:35:59 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1825,6 +1977,7 @@
     },
     {
         "Student Name": "Aakash Srivastava",
+        "Student Email": "aakashsri10@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:37:07 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1837,6 +1990,7 @@
     },
     {
         "Student Name": "Keshav Rastogi",
+        "Student Email": "keshav61005@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:38:13 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1849,6 +2003,7 @@
     },
     {
         "Student Name": "Kunal Kumar",
+        "Student Email": "kunalkumarh2003@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:39:32 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1861,6 +2016,7 @@
     },
     {
         "Student Name": "Sarthak Sahu",
+        "Student Email": "sarthaksahu22dec2003@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:40:40 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1873,6 +2029,7 @@
     },
     {
         "Student Name": "Nancy Yadav",
+        "Student Email": "nancyy0804@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:41:44 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1885,6 +2042,7 @@
     },
     {
         "Student Name": "Ankit Kumar",
+        "Student Email": "ankitx012@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:42:57 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1897,6 +2055,7 @@
     },
     {
         "Student Name": "Swati Mehta",
+        "Student Email": "swatimehta004@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:44:03 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1909,6 +2068,7 @@
     },
     {
         "Student Name": "Shrishti Bansal",
+        "Student Email": "shrishtidolly254@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:45:26 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1921,6 +2081,7 @@
     },
     {
         "Student Name": "Amit Kumar",
+        "Student Email": "amitkumar2182004@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:46:59 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1933,6 +2094,7 @@
     },
     {
         "Student Name": "Simran Maddhesia",
+        "Student Email": "simranmaddhesia33@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:48:07 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1945,6 +2107,7 @@
     },
     {
         "Student Name": "Sahil Chaubey",
+        "Student Email": "sahilchaubey72@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:49:20 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1957,6 +2120,7 @@
     },
     {
         "Student Name": "Yash Rajveer Shahi",
+        "Student Email": "yashrajveershahi@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:50:28 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1969,6 +2133,7 @@
     },
     {
         "Student Name": "Prince Sharma",
+        "Student Email": "shaarmprince@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:51:47 GMT+0530 (India Standard Time)",
         "Enrolment Status": "Wrong Google Cloud Skills Boost Public Profile URL",
@@ -1981,6 +2146,7 @@
     },
     {
         "Student Name": "Shivendu Kumar Gupta",
+        "Student Email": "krshivendu23@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:53:57 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -1993,6 +2159,7 @@
     },
     {
         "Student Name": "Ayushi Goel",
+        "Student Email": "goelayushi101@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:55:01 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2005,6 +2172,7 @@
     },
     {
         "Student Name": "Prashant Dixit",
+        "Student Email": "coolprashantdixit211@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:56:07 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2017,6 +2185,7 @@
     },
     {
         "Student Name": "Shubham Chaurasiya",
+        "Student Email": "shubhamandson@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:57:15 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2029,6 +2198,7 @@
     },
     {
         "Student Name": "Pratham Prakash Saxena",
+        "Student Email": "pratham432002@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 11:58:19 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2041,6 +2211,7 @@
     },
     {
         "Student Name": "Ankita Prakash",
+        "Student Email": "raioankita@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 12:20:42 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2053,6 +2224,7 @@
     },
     {
         "Student Name": "Prabal Pratap",
+        "Student Email": "prabalpratap006@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 12:22:00 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2065,6 +2237,7 @@
     },
     {
         "Student Name": "Himank Garg",
+        "Student Email": "himankgarg1000@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 12:23:01 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2077,6 +2250,7 @@
     },
     {
         "Student Name": "Khushi",
+        "Student Email": "khushidhama2004@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 12:24:02 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2089,6 +2263,7 @@
     },
     {
         "Student Name": "Aman Gupta",
+        "Student Email": "ag5730102@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 12:25:04 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2101,6 +2276,7 @@
     },
     {
         "Student Name": "Ashu",
+        "Student Email": "ashubaisoya1986@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 12:26:26 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2113,6 +2289,7 @@
     },
     {
         "Student Name": "Shivam Sharma",
+        "Student Email": "shivamsharmaji549@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 12:27:28 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2125,6 +2302,7 @@
     },
     {
         "Student Name": "Sujeet Kumar",
+        "Student Email": "sujeet.0777kumar@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 12:28:35 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2137,6 +2315,7 @@
     },
     {
         "Student Name": "Gautam Kumar Soni",
+        "Student Email": "gk414449@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 12:32:25 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2149,6 +2328,7 @@
     },
     {
         "Student Name": "Talha Khalid",
+        "Student Email": "khalidtalha00@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 13:35:30 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2161,6 +2341,7 @@
     },
     {
         "Student Name": "Anas Siddiqui",
+        "Student Email": "mohammadanassiddiqui18@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 14:27:21 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2173,6 +2354,7 @@
     },
     {
         "Student Name": "Devansh Agrawal",
+        "Student Email": "devagrawal146@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 14:28:48 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2185,6 +2367,7 @@
     },
     {
         "Student Name": "Lalit Pathak",
+        "Student Email": "lalitkumar90453763@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 14:31:22 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2197,6 +2380,7 @@
     },
     {
         "Student Name": "Yuvraj Singh",
+        "Student Email": "yuvrajsingh11thd@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 14:48:57 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2209,6 +2393,7 @@
     },
     {
         "Student Name": "Shri Prakash Mishra",
+        "Student Email": "prakashhannu@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 16:32:45 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2221,18 +2406,20 @@
     },
     {
         "Student Name": "Sahil Ansari",
+        "Student Email": "sa4700659@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 17:58:55 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a1c5cb67-8344-4549-804b-050a56c1fafa",
         "# of Courses Completed": "0",
         "# of Skill Badges Completed": "0",
-        "# of GenAI Game Completed": "0",
+        "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
     },
     {
         "Student Name": "Ankit Tiwari",
+        "Student Email": "ankitgavailable@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 18:02:41 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2245,6 +2432,7 @@
     },
     {
         "Student Name": "Nakul Rana",
+        "Student Email": "rananakul098@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 18:08:25 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2257,6 +2445,7 @@
     },
     {
         "Student Name": "Dhirendra Pratap Singh",
+        "Student Email": "dhpsingh7991@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 18:11:42 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2269,6 +2458,7 @@
     },
     {
         "Student Name": "Amit Kumar Yadav",
+        "Student Email": "ay780906@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 18:15:12 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2281,6 +2471,7 @@
     },
     {
         "Student Name": "Vanshika Gupta",
+        "Student Email": "vanshikagupta702@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 18:18:43 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2293,6 +2484,7 @@
     },
     {
         "Student Name": "Lalit Kumar Saini",
+        "Student Email": "lalitKumarsaini0708@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 23:19:48 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2305,6 +2497,7 @@
     },
     {
         "Student Name": "Arpit kakran",
+        "Student Email": "chaudharyarpit744@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 23:34:38 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2317,6 +2510,7 @@
     },
     {
         "Student Name": "Aman Naeem",
+        "Student Email": "amannaeem78654@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 23:40:07 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2329,6 +2523,7 @@
     },
     {
         "Student Name": "Aryan kadiyan",
+        "Student Email": "akadiyan113@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 23:49:18 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2341,6 +2536,7 @@
     },
     {
         "Student Name": "harshita rajput",
+        "Student Email": "harshitarajputxxvi@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sat Sep 02 2023 23:53:03 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2353,6 +2549,7 @@
     },
     {
         "Student Name": "Aman Raj",
+        "Student Email": "amanraj97087@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sun Sep 03 2023 00:01:03 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2365,6 +2562,7 @@
     },
     {
         "Student Name": "Ram Narayan Jaiswal",
+        "Student Email": "liveramnarayan9565@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sun Sep 03 2023 00:01:30 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2377,6 +2575,7 @@
     },
     {
         "Student Name": "Khushi mishra",
+        "Student Email": "khushiumang005@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sun Sep 03 2023 00:01:45 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2389,6 +2588,7 @@
     },
     {
         "Student Name": "Dheeraj kumar",
+        "Student Email": "dheeraj475518110@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sun Sep 03 2023 00:05:16 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2401,6 +2601,7 @@
     },
     {
         "Student Name": "Ayush Mishra",
+        "Student Email": "mishraayush333971@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sun Sep 03 2023 00:09:10 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2413,6 +2614,7 @@
     },
     {
         "Student Name": "Sudhir kumar",
+        "Student Email": "sktufani14@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sun Sep 03 2023 00:13:13 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2425,6 +2627,7 @@
     },
     {
         "Student Name": "Prince kumar singh",
+        "Student Email": "p282004s@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sun Sep 03 2023 00:16:28 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2437,6 +2640,7 @@
     },
     {
         "Student Name": "Md Abu Rehan",
+        "Student Email": "rehanulhaque2003@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sun Sep 03 2023 00:19:54 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
@@ -2449,6 +2653,7 @@
     },
     {
         "Student Name": "Amrita Yadav",
+        "Student Email": "yamrita2005@gmail.com",
         "Institution": "Greater Noida Institute of Technology - Greater Noida",
         "Enrolment Date & Time": "Sun Sep 03 2023 07:17:44 GMT+0530 (India Standard Time)",
         "Enrolment Status": "Wrong Google Cloud Skills Boost Public Profile URL",
