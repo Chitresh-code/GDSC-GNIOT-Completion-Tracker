@@ -2458,5 +2458,17 @@
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
         "Redemption Status": "No"
+    },
+    {
+        "Student Name": "Lav Raj",
+        "Institution": "Greater Noida Institute of Technology - Greater Noida",
+        "Enrolment Date & Time": "Sun Sep 03 2023 07:17:44 GMT+0530 (India Standard Time)",
+        "Enrolment Status": "All Good",
+        "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/7b7b732a-5707-4a87-a1c4-2dd1d3188a2a",
+        "# of Courses Completed": "4",
+        "# of Skill Badges Completed": "4",
+        "# of GenAI Game Completed": "1",
+        "Total Completions of both Pathways": "Yes",
+        "Redemption Status": "No"
     }
 ]
