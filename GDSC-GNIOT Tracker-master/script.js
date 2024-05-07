@@ -34,7 +34,7 @@ const updateData = async (filter, flag) => {
   let data = await (await fetch("./data.json")).json();
   if (filter !== "") {
     data = data.filter((el) => {
-      return el["Student Name"].toLowerCase().includes(filter.toLowerCase());
+      return el["User Name"].toLowerCase().includes(filter.toLowerCase());
     });
   }
 
@@ -43,16 +43,16 @@ const updateData = async (filter, flag) => {
   let html = "";
 
   data.forEach((d, i) => {
-    // Check if Total Completions of both Pathways is "Yes" and Redemption is "No" then Highlight it
+    // Check if All 3 Pathways Completed - Yes or No is "Yes" and Redemption is "No" then Highlight it
     const rowBackgroundColor =
-      d["Total Completions of both Pathways"] === "Yes"
+      d["All 3 Pathways Completed - Yes or No"] === "Yes"
         ? "#9CFF2E"
-        : d["Redemption Status"] === "No"
+        : d["Campaign Code Redemption Status"] === "No"
         ? "#FF5D5D"
         : "";
 
-    // Check if "Total Completions of both Pathways" is "Yes"
-    if (d["Total Completions of both Pathways"] === "Yes") {
+    // Check if "All 3 Pathways Completed - Yes or No" is "Yes"
+    if (d["All 3 Pathways Completed - Yes or No"] === "Yes") {
       totalCompletionsYesCount++;
     }
 
@@ -62,24 +62,28 @@ const updateData = async (filter, flag) => {
                   <td><a href="${
                     d["Google Cloud Skills Boost Profile URL"]
                   }" target="_blank" style="color:black;">${
-      d["Student Name"]
+      d["User Name"]
     }</a></td>
 
-                  <td>${d["Redemption Status"] === "Yes" ? "✅" : "⚠️"}</td>
+                  <td>${d["Campaign Code Redemption Status"] === "Yes" ? "✅" : "⚠️"}</td>
 
                   <td>${
-                    d["# of GenAI Game Completed"] === "1" ? "💯" : "❌"
+                    d["Gen AI Arcade Game Completion"] === 1 ? "💯" : "❌"
                   }</td>
 
-                  <td>${d["# of Skill Badges Completed"]}</td> 
+                  <td>${
+                    d["Prompt Design in Vertex AI Completion"] === 1 ? "💯" : "❌"
+                  }</td> 
                         
-                  <td>${d["# of Courses Completed"]}</td>
+                  <td>${
+                    d["Develop GenAI Apps with Gemini and Streamlit Completion"] === 1 ? "💯" : "❌"
+                  }</td>
                           
-                  <td>${d["Total Completions of both Pathways"]}</td>
+                  <td>${d["All 3 Pathways Completed - Yes or No"]}</td>
                    
     </tr>`;
   });
-  console.log("Total Completions of both Pathways:", totalCompletionsYesCount);
+  console.log("All 3 Pathways Completed - Yes or No:", totalCompletionsYesCount);
   if (flag) {
     changeWidth();
   };
