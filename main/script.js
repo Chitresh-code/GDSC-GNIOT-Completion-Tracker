@@ -68,15 +68,15 @@ const updateData = async (filter, flag) => {
                   <td>${d["Campaign Code Redemption Status"] === "Yes" ? "✅" : "⚠️"}</td>
 
                   <td>${
-                    d["Gen AI Arcade Game Completion"] === 1 ? "💯" : "❌"
+                    d["Gen AI Arcade Game Completion"] === "1" ? "💯" : "❌"
                   }</td>
 
                   <td>${
-                    d["Prompt Design in Vertex AI Completion"] === 1 ? "💯" : "❌"
+                    d["Prompt Design in Vertex AI Completion"] === "1" ? "💯" : "❌"
                   }</td> 
                         
                   <td>${
-                    d["Develop GenAI Apps with Gemini and Streamlit Completion"] === 1 ? "💯" : "❌"
+                    d["Develop GenAI Apps with Gemini and Streamlit Completion"] === "1" ? "💯" : "❌"
                   }</td>
                           
                   <td>${d["All 3 Pathways Completed - Yes or No"]}</td>
