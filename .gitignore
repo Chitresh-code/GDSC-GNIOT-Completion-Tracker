@@ -1,6 +1,7 @@
-# personal data
-.conversion/input.csv
-.main/data.json
+# Personal data
+conversion/input.csv
+main/data.json
+main/script2.js
 
 # Logs
 logs
