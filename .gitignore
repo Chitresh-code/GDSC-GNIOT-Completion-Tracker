@@ -1,3 +1,7 @@
+# personal data
+conversion/input.csv
+main/data.json
+
 # Logs
 logs
 *.log
