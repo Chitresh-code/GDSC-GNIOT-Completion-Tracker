@@ -1,6 +1,6 @@
 # Cloud Student Tracker
 
-[![Website](https://img.shields.io/website?url=https://cloud-student-tracker.web.app/)](https://genai-student-tracker.web.app/))
+[![Website](https://img.shields.io/website?url=https://cloud-student-tracker.web.app/)](https://genai-student-tracker.web.app/)
 
 
 > A powerful web application for tracking and managing student data for the Google Cloud Study Jams 2023 [Cohort-1].
